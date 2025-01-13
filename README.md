@@ -39,7 +39,7 @@ Getting Started
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/CRUD-application.git
+git clone [https://github.com/Rishabhsingh79/CRUD-project]
 Navigate to the project directory:
 
 bash
